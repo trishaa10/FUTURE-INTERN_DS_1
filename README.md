@@ -72,7 +72,7 @@ _Add screenshots of your dashboard visuals here if available._
 
 ## 🔗 Contact
 
-Feel free to check out more of my work on [GitHub](https://github.com/trisha10) or reach out for collaborations, feedback, or to discuss data projects!
+Feel free to check out more of my work on [GitHub](https://github.com/trishaa10) or reach out for collaborations, feedback, or to discuss data projects!
 
 
 ---
